@@ -10,7 +10,7 @@ namespace laba_mtzkit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Мене звати DITO");
         }
     }
 }
